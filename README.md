@@ -15,7 +15,7 @@ The tool allows safe, structured editing of profile data, money, experience, tru
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 Releases Page]() = `*Latest Release as of now*`
+- [💾 Releases Page](https://github.com/ETS2-ATS-Save-Editor/.github/releases) = `*Latest Release as of now*`
 
 ---
 
